@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    position:absolute;
+    width:100px;
+    height: 150%;
+    background-color: lightgoldenrodyellow;    
+}
+.flagga{
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+    background-color: red;
+    margin-left: 500px;
+    margin-top: 20px;
+    text-align: center;
+}
+.text{
+    width: 750px;
+    height: 200px;
+    padding: 20px;
+    background-color: violet;
+    margin-left: 120px;
+    margin-top: 20px;
+    text-align:center;
+    
+}
+.bild{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    background-color: deepskyblue;
+    margin-left: 120px;
+    margin-top: 20px;
+    position: absolute;
+}
+.text2{
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    background-color: blueviolet;
+    margin-left: 470px;
+    margin-top: 20px;
+}
+.text3{
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    background-color: blueviolet;
+    margin-left: 120px;
+    margin-top: 10px;
+    position: absolute;
+}
+.bild2{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    background-color: deepskyblue;
+    margin-left: 570px;
+    margin-top: 10px;
+    position: absolute;
+}
+#flagga{
+    font-size: 60px;
+}
+#text{
+    padding-top: 60px;
+    font-size: 70px;
+}
+#menu{
+    transform: rotate(-90deg);
+    margin-top: 400px;
+    font-size: 70px
+}
+.bildtext{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 70px;
+}
+.text10{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 70px;
+}
